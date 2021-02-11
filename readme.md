@@ -3,4 +3,4 @@
 * sid: 20586684
 * Screenshot of history:
 <br>
-<img src="delete.jpg" alt="screenshot" height="100%" width="100%">
+<img src="./delete.jpg" alt="screenshot" height="100%" width="100%">
