@@ -2,4 +2,5 @@
 * Author: Max Hung
 * sid: 20586684
 * Screenshot of history:
-<img src="delete.jpg" alt="screenshot">
+<br>
+<img src="delete.jpg" alt="screenshot" height="100%" width="100%">
