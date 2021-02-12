@@ -3,4 +3,4 @@
 * sid: 20586684
 * Screenshot of history:
 <br>
-<img src="./delete.jpg" alt="screenshot" height="100%" width="100%">
+<img src="https://github.com/MaxHung/comp3111-lab1-2021s/blob/master/delete.JPG?raw=true" alt="screenshot" height="100%" width="100%">
